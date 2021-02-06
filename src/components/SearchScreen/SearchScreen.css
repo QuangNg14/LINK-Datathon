@@ -196,3 +196,9 @@ li + li {
   display: flex;
   justify-content: center;
 }
+
+/* .information-container{
+  width: 600;
+  display:"flex";
+  justify-content :"center"
+} */
